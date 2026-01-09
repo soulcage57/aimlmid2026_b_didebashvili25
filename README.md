@@ -97,3 +97,5 @@ Conclusion:
 The analysis successfully demonstrates a nearly perfect linear relationship between the X and Y variables collected from the interactive graph.
 The correlation coefficient of 0.9996 confirms the visual observation from the original graph that the points follow a straight line pattern.
 This strong positive correlation suggests that the two variables are highly related and can be accurately predicted from one another using linear regression.
+<img width="1200" height="875" alt="Capture" src="https://github.com/user-attachments/assets/d92589fa-da6b-45c2-842c-87aa7c28c39b" />
+
