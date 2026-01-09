@@ -93,7 +93,7 @@ python
 # 6. Create visualization with scatter plot and regression line
 # 7. Save results to CSV and PNG files
 
-Conclusion
+Conclusion:
 The analysis successfully demonstrates a nearly perfect linear relationship between the X and Y variables collected from the interactive graph.
 The correlation coefficient of 0.9996 confirms the visual observation from the original graph that the points follow a straight line pattern.
 This strong positive correlation suggests that the two variables are highly related and can be accurately predicted from one another using linear regression.
